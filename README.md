@@ -5,8 +5,13 @@
 Seaborn is a Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics.
 
 ## Reference   
-[Matplotlib - Official](https://matplotlib.org/)     
-[Seaborn - Official](https://github.com/mwaskom/seaborn)     
+[Matplotlib - Official](https://matplotlib.org/) 
+[Matplotlib - Example](https://matplotlib.org/gallery/index.html)
+
+[Seaborn - Official](https://github.com/mwaskom/seaborn)       
+[Seaborn - Documentation](https://seaborn.pydata.org/)   
+[Seaborn - Gallery](https://seaborn.pydata.org/examples/index.html)   
+
 
 ## Install Instructions
 * [Aconda Pythn - Primary ](https://anaconda.org/)
