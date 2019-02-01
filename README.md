@@ -1,8 +1,12 @@
 ![CuseyHub](https://github.com/cusey/ImageForWiki/blob/master/Logos/CuseyHub_Banner_Small.jpg)    
 # Seaborn Examples  
 
+# Introduction   
+Seaborn is a Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics.
+
 ## Reference   
-[Matplotlib - Official](https://matplotlib.org/)
+[Matplotlib - Official](https://matplotlib.org/)     
+[Seaborn - Official](https://github.com/mwaskom/seaborn)     
 
 ## Install Instructions
 * [Aconda Pythn - Primary ](https://anaconda.org/)
